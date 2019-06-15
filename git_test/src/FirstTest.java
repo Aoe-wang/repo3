@@ -6,4 +6,9 @@ public class FirstTest {
         System.out.println("aaaaa");
         System.out.println("aaaaa");
     }
+
+    public void test(){
+        int i=0;
+        i+=10;
+    }
 }
